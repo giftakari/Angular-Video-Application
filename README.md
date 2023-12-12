@@ -32,7 +32,7 @@ The Angular-Video-Application is a modern web application for seamless video man
 - HTML/CSS for a responsive interface.
 
 *Getting Started:*
-1. Clone: `git clone [repository-url]`
+1. Clone: `git clone (https://github.com/giftakari/Angular-Video-Application.git)https://github.com/giftakari/Angular-Video-Application.git`
 2. Install: `npm install`
 3. Run: `ng serve`
 
